@@ -61,7 +61,7 @@ Work division?
 Basically, we did everything together. But for sake of clarity, see below:
 
 – Person 1&2: create the tables with the probabilities
-– Person 1&2 create the initial version of Viterbi and a very simple OOV strategy (assume all POS have equal probability)
+– Person 1&2: create the initial version of Viterbi and a very simple OOV strategy (assume all POS have equal probability)
 – Person 1&2: OOV strategy based on words occurring once
 – Person 1&2: error analysis on development corpus to determine next improvements
 – Person 1&2: Manual Rule based system
