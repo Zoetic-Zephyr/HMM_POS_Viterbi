@@ -3,6 +3,8 @@
 *            Hidden Markov Model Part of Speech Tagging using Viterbi Algorithm          *
 *                             HMM POS Tagging using Viterbi                              *
 *                                                                                        *
+*                               -A Bigram Implementation-                                *
+*                                                                                        *
 *                                       Created By:                                      *
 *                         Zheng(Jack) Zhang & Fangqing(Quinn) He                         *
 *                                        2019/2/26                                       *
